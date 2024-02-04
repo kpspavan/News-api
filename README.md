@@ -12,7 +12,7 @@ Before you begin, make sure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/news-portal.git
+   git clone (https://github.com/kpspavan/News-api.git)
 
    npm install
 
