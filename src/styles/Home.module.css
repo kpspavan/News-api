@@ -1,5 +1,13 @@
-
 .defaultdiv {
- display: flex;
- 
+  display: flex;
+}
+
+.customDatePickerWrapper {
+  width: 100%;
+}
+
+/* Adjust the input width inside the date picker */
+.customDatePickerWrapper .react-datepicker__input-container input {
+  width: 100%;
+  border: 1px solid black;
 }
